@@ -2,7 +2,7 @@
 Some projects of mine can be found in this repository:
 
 ## SQL
-1. **PostgreSQL_Google Merchandise Store Dataset**
+1. [**PostgreSQL_Google Merchandise Store Dataset**](SQL/PostgreSQL_BigQuery_GoogleMerchandiseStore.sql)
 <br/>Extracted data for the descriptive analysis, including: cohort comparison; pageview comparison between varied user types; bounce rate by traffic source; summarization of total visits, pageviews, transaction and revenue.
 
 ## PowerBI
