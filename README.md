@@ -14,7 +14,7 @@ Some projects of mine can be found in this repository:
 ## Python
 1. [**Data Wrangling_Ecommerce**](Python/Data Wrangling_Ecommerce.ipynb)
 <br/>Transformed raw transactional data using Python, specifically filling NULLs with meaningful values, dropping duplicates, fixing typo errors, adding calculation/categorization columns, merging relevant tables. 
-2. [**While loop with array practice**](Python/While loop with array.ipynb)
+2. [**While Loop With Array Practice**](Python/While loop with array.ipynb)
 <br/>Created a program that randomly generate "búa", "kéo", "lá" in every turn. Users choose 1 among "búa", "kéo", "lá" and compare that with the result randomly picked by the program.
-3. [**While loop practice**](Python/While loop.ipynb) 
+3. [**While Loop Practice**](Python/While loop.ipynb)
 <br/>Created a program that randomly generate a number between 1 and 10 every turn. Users choose 1 number and compare that with the result randomly picked by the program. Stop the game after 5 times of incorrectly guessing.
