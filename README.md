@@ -12,7 +12,7 @@ Some projects of mine can be found in this repository:
 <br/>Analyzed debt recovery efficiency of Bank X's partner so that the Head of Collection can make appropriate decisions on debt portfolio allocation and cooperation strategy for the next quarter.
 
 ## Python
-1. [**Data Wrangling_Ecommerce**](https://github.com/lynguyen-mia/DA_Projects/blob/f5efe034db7e1c611430830ed81f81bdb59ecc6f/Python/Data%20Wrangling_Ecommerce.ipynb)
+1. [**Data Wrangling_Ecommerce**](Python/Data Wrangling_Ecommerce.ipynb)
 <br/>Transformed raw transactional data using Python, specifically filling NULLs with meaningful values, dropping duplicates, fixing typo errors, adding calculation/categorization columns, merging relevant tables. 
 2. [**While Loop With Array Practice**](https://github.com/lynguyen-mia/DA_Projects/blob/f5efe034db7e1c611430830ed81f81bdb59ecc6f/Python/While%20loop%20with%20array.ipynb)
 <br/>Created a program that randomly generate "búa", "kéo", "lá" in every turn. Users choose 1 among "búa", "kéo", "lá" and compare that with the result randomly picked by the program.
