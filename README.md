@@ -1,4 +1,4 @@
-# DA_Projects
+# Projects
 Some projects of mine can be found in this repository:
 
 ## SQL
